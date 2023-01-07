@@ -36,3 +36,4 @@ daily_growth_factor = 1.2
 # print("输入姓名")
 name = input("输入姓名:")
 print(f"姓名：{name}")
+print(f"姓名：{name}")
